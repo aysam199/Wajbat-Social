@@ -1,0 +1,14 @@
+.feedCard {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 5px;
+  padding-bottom: 60px;
+}
+
+.indicator{
+  display: flex;
+  justify-content: center;
+  padding-top: 250px;
+}
+  

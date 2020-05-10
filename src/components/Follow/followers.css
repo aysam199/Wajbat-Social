@@ -1,0 +1,20 @@
+.list {
+  margin-left: 10% !important;
+}
+.line {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-right: 50px !important;
+}
+.inline {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.unFollow {
+  margin-left: 120px !important;
+  background-color: white !important;
+  color: black !important;
+  border: 5px solid #21b5a2 !important;
+}
