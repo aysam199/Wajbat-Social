@@ -16,30 +16,38 @@ After signing in with Google or Facebook, you can post your recipes and informat
 
 >This project is built with ReactJS, this is the Frontend of a bigger project 
 
-called Wajbat, on Wajbat NodeJS, Express, MongoDB, PostgreSQL and other 
+>called Wajbat, on Wajbat NodeJS, Express, MongoDB, PostgreSQL and other 
 
-technologies were used.
+>technologies were used.
 
-Due to issues in signing in with the backend, the project isn't live on netlify
+>Due to issues in signing in with the backend, the project isn't live on netlify
 
 #### Home Page: This is where you see others posts (similar to IG)
 ![](https://i.imgur.com/GpBx5l7.png)
+___
 
 #### Post Page: The following 3 images are the post page
 ![](https://i.imgur.com/FAsnzCB.png)
+___
 
 ![](https://i.imgur.com/POyNlxk.png)
+___
 
 ![](https://i.imgur.com/XiTd2vc.png)
+___
 
 #### Profile Page: Here you can see your followers, following, your posts and your favorites
 ![](https://i.imgur.com/b7ApxMG.png)
+___
 
 #### AddPost Page: Add posts to show your talents and help others make the same recipes you make (2 images)
 ![](https://i.imgur.com/VBiSX9M.png)
+___
 
 ![](https://i.imgur.com/Z2DaQYG.png)
+___
 
 #### Signin Page: Choose to signin either with Google or Facebook
 ![](https://i.imgur.com/CBkrcOM.png)
+___
 
